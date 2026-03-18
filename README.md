@@ -1,4 +1,4 @@
-**Food Price Trends and Household Impact Analysis**
+## Food Price Trends and Household Impact Analysis
 
 
 1. Project Description
