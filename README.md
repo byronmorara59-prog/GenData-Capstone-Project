@@ -1,14 +1,14 @@
 ## Food Price Trends and Household Impact Analysis
 
 
-1. Project Description
+### 1. Project Description
 
 This project analyzes how food prices have changed over time and how these changes affect affordability for households. It examines trends in essential food items such as maize, rice, and wheat. The goal is to provide clear insights into price patterns and identify periods where food becomes less affordable. It combines data cleaning, analysis, and visualization using SQL, Excel, and Tableau to present findings in a simple and interactive dashboard. 
 
 
 
 
-2. Problem Statement
+### 2. Problem Statement
 
 
 Many households struggle to manage food expenses due to rising prices. However, there is often no clear understanding of how prices change over time or which food items are most affected.
@@ -18,7 +18,7 @@ This project aims to solve that problem by analyzing historical food price data 
 
 
 
-3. Proposed Features
+### 3. Proposed Features
 
 i) Data Integration - Import food price datasets.
 
@@ -33,7 +33,7 @@ v) Interactive Dashboard - Visualize trends, averages, and key insights using Ta
 
 
 
-4. Tools and Concepts
+### 4. Tools and Concepts
 
 
 i) SQL
@@ -63,7 +63,7 @@ iii) Tableau
 
 
 
-5. Data Sources
+### 5. Data Sources
 
 
 The project will use publicly available datasets because they are easy to access have up to date data. These datasets will include:
@@ -75,7 +75,7 @@ The project will use publicly available datasets because they are easy to access
 
 
 
-7. Expected Insights
+### 6. Expected Insights
 
 
 i) Which food items have increased in price the most?
